@@ -1,0 +1,17 @@
+.InfoBox{
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    
+}
+.city_Icon{
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    margin-top: 0.3rem;
+    
+}
